@@ -1,3 +1,7 @@
+# Dashboard Visualisasi 
+![image][Dashboard_Analisis_dan_Rekomendasi_Film_page-0001](https://github.com/user-attachments/assets/53196075-9a39-4d74-ac8b-7f7121f7682e)
+
+
 # 🎬 Sistem Rekomendasi Film
 
 ## Ringkasan
